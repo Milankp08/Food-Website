@@ -1,0 +1,9 @@
+/* ----------Home Section---------- */
+
+#home {
+    height: 622px;
+}
+
+#home::before {
+    height: 777px;
+}
